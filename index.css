@@ -1,0 +1,9 @@
+:root
+{
+  --f1 : #4cabeb;
+}
+
+h1
+{
+    color:var(--f1);
+}
